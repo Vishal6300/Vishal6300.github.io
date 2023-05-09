@@ -198,8 +198,8 @@ a {
   /* font-family: 'Exo Space'; */
   display: inline-block;
   /* text-transform: uppercase; */
-  animation: home0 2s infinite;
-  animation-delay: calc(0.1s * var(--i));
+  /* animation: home0 2s infinite; */
+  /* animation-delay: calc(0.1s * var(--i)); */
   color: #003149;
 }
 
