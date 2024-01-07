@@ -1,2 +1,2 @@
-# ayaz-01.github.io
+# vishal6300.github.io
 Portfolio
